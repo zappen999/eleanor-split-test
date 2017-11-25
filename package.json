@@ -2,11 +2,27 @@
   "name": "eleanor-split-test",
   "version": "0.1.0",
   "description": "Split testing helper",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "types": "./index.d.ts"
+  "types": "./index.d.ts",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zappen999/eleanor-split-test.git"
+  },
+  "keywords": [
+    "Split",
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/zappen999/eleanor-split-test/issues"
+  },
+  "homepage": "https://github.com/zappen999/eleanor-split-test#readme"
 }
