@@ -1,0 +1,12 @@
+{
+  "name": "eleanor-split-test",
+  "version": "0.1.0",
+  "description": "Split testing helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts"
+}
