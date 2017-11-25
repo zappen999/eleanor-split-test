@@ -1,15 +1,14 @@
 {
   "name": "eleanor-split-test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Split testing helper",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "./index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "types": "./index.d.ts",
   "directories": {
     "example": "examples"
   },
