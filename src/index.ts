@@ -1,1 +1,1 @@
-export { EleanorSplitTest } from './eleanor-split-test';
+export { Experiment, Settings } from './eleanor-split-test';
