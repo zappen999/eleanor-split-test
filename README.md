@@ -12,7 +12,7 @@ only by using this module.
 ## Example usage
 
 ```js
-const Experiment = require('eleanor-split-test');
+import { Experiment } from 'eleanor-split-test';
 
 // setup the experiment
 const experiment = new Experiment({
